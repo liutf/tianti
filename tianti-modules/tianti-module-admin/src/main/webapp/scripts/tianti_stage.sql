@@ -1,3 +1,4 @@
+USE tianti_stage;
 
 SET FOREIGN_KEY_CHECKS=0;
 -- ----------------------------
